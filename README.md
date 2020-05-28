@@ -2,4 +2,4 @@
 **Webrequest over Commandline**
 #
 Installation:
-Move exe into C:\Windows\System32
+Run exe in Terminal
